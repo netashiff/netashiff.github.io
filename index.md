@@ -1,6 +1,6 @@
 ## About Me
 
-![](Images/IMG1.png)
+![](Images/IMG1.png  width="100" high ="300)
 
 - My name is Neta shiff
 - I am 21 years old
