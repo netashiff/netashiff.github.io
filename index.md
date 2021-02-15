@@ -23,6 +23,7 @@
 # Projects: 
 - Website to encrypt and decrypt files- the website also have a database with users
     The main page look like:
-    ![](Images/IMG1.png)
+    
+    ![](Images/IMG2.png)
     
 - 
