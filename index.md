@@ -1,5 +1,7 @@
 ## About Me
 
+![](images/IMG1.png)
+
 - My name is Neta shiff
 - I am 21 years old
 - I am born and raised in Israel.
