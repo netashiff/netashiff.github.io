@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## About Me
+
+My name is Neta shiff,
+- I am 21
+- I am born and raised in Israel.
+- I graduate high school at 2017. In high school, I expanded math, physics and computer science.
+- I was in the Israeli army between the years 2017-2019
+- I am currently doing a undergrade in computer science in Grand Valley State University and minoring in math.
+- I am also on the varsity swim team.
+
+
 
 You can use the [editor on GitHub](https://github.com/netashiff/netashiff.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
