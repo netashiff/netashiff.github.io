@@ -1,7 +1,7 @@
 ## About Me
 
-My name is Neta shiff,
-- I am 21
+- My name is Neta shiff
+- I am 21 years old
 - I am born and raised in Israel.
 - I graduate high school at 2017. In high school, I expanded math, physics and computer science.
 - I was in the Israeli army between the years 2017-2019
