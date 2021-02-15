@@ -1,5 +1,5 @@
 ## About Me
-
+![image](/assets/images/C:\Users\User\Documents\Winter2021\cis350\myweb\netashiff.github.io\IMG1.jpg)
 - My name is Neta shiff
 - I am 21 years old
 - I am born and raised in Israel.
