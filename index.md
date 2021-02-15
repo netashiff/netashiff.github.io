@@ -21,9 +21,9 @@
 - Parlty HTML
 
 # Projects: 
-- Website to encrypt and decrypt files- the website also have a database with users
+- Website to encrypt and decrypt files- the website also have a database with users.
+    
     The main page look like:
     
     ![](Images/IMG2.png)
-    
 - 
