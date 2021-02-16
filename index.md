@@ -1,29 +1,32 @@
 ## About Me:
 
-![](Images/IMG1.png)
+- ![](Images/IMG1.png)
 
-- My name is Neta shiff
-- I am 21 years old
+- My name is Neta Shiff.
+- I am 21 years old.
 - I am born and raised in Israel.
-- I speak Hebrew and English
-- I graduate high school at 2017. In high school, I expanded math, physics and computer science.
-- I was in the Israeli army between the years 2017-2019
-- I am currently doing a undergrade in computer science in Grand Valley State University and minoring in math.
-- I am also on the varsity swim team.
+- I speak Hebrew and English.
+- I graduated high school in 2017. In high school, I took extra courses in math, physics and computer science.
+- I was in the Israeli army between the years 2017-2019.
+- I am currently pursuing a Bacholrs in computer science at Grand Valley State University and minoring in math.
+- I am also on the varsity swim team at GVSU.
 
-# Program Languages:
+# Programming Languages:
 - Python
-- c+
-- c#
+- C++
+- C#
 - Java
 - Linux
-- Curently leaning SQL
-- Parlty HTML
+- Familiar in SQL
+- Familiar in HTML
 
 # Projects: 
-- Website to encrypt and decrypt files- the website also have a database with users.
+- Website to encrypt and decrypt files - the website also has a database with users.
     
-    The main page look like:
+    The main page is shown blow:
     
     ![](Images/IMG2.png)
-- 
+    
+- A surround game
+    The main shown:
+    
