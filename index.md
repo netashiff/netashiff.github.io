@@ -28,6 +28,6 @@
     ![](Images/IMG2.png)
     
 - A surround game
-    The main shown:
+    The main page is shown blow:
     
     ![](Images/IMG3.png) 
